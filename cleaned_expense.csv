@@ -1,0 +1,11 @@
+Expense-id,Date,Category,Description,Amount,Payment_mode,Type,expense_level
+1,2026-01-01,Food,Breakfast,120,UPI,Expense,Normal
+2,2026-01-02,Transport,Bus,50,Cash,Expense,Normal
+3,2026-01-03,Salary,Monthly Salary,30000,Bank,Income,High
+4,2026-01-04,Shopping,Clothes,1500,UPI,Expense,High
+5,2026-01-05,Bills,Electricity,1200,UPI,Expense,High
+6,2026-01-06,Food,Lunch,250,UPI,Expense,Normal
+7,2026-01-07,Entertainment,Movie,400,Card,Expense,Normal
+8,2026-01-08,Transport,Cab,300,UPI,Expense,Normal
+9,2026-01-09,Shopping,Shoes,2000,Card,Expense,High
+10,2026-01-10,Food,Dinner,350,Cash,Expense,Normal
